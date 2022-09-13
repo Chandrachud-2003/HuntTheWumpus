@@ -1,3 +1,5 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/Chandrachud-2003/HuntTheWumpus) ![GitHub](https://img.shields.io/github/license/Chandrachud-2003/HuntTheWumpus) ![GitHub last commit](https://img.shields.io/github/last-commit/Chandrachud-2003/HuntTheWumpus)
+
 # 🎯 Hunt the Wumpus - CS231
 
 Project 9: Hunt the Wumpus 
